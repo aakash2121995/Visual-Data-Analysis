@@ -1,4 +1,4 @@
-## Multidimensional Data Filtering and Visualization
+## Principal Component Analysis
 
 a) Read the breast-cancer-wisconsin.xlsx file. Note that there are some instances with missing
 data, which have to be imputed before we can run PCA. Pandas offers convenient functions for
